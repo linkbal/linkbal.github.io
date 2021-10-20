@@ -4,6 +4,8 @@ permalink: /positions/sre/senior
 ---
 # 【ポジション】シニアSREエンジニア
 
+準備中です。
+
 ## 責任
 ...
 

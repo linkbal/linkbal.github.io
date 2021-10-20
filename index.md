@@ -66,7 +66,7 @@ permalink: /
 - [Advent Calendar 2018](https://qiita.com/advent-calendar/2018/linkbal)
 
 # 組織
-[リンクバルの組織構造、体制についてはこちら](/organization)をご覧ください。
+[リンクバルの組織構造、体制についてはこちら](/teams)をご覧ください。
 
 # オフィス
 - [オフィスの写真はこちら](/office)
